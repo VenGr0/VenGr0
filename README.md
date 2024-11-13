@@ -4,7 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 AI developer
 --------------------
 
-Recently learned to be a web developer in Python using the Flask microframework. I also know SQL at an intermediate level, namely: Database composition, queries, joins, indexing, views, procedures and procedure creation. My course included lessons on the initial mastery of HTML, CSS, bootstrap, so that the pages looked more sympathetic. During my studies I managed to write a thesis project and defend it, it is also on my github. At the moment I am studying the development direction related to AI.
+I specialize in neural network development using TensorFlow and PyTorch frameworks. I also have experience working with NumPy, Pandas, Keras, SkLearn and other libraries for data analysis and preprocessing.
+Moving into neural network development was a logical career step for me. I have always been fascinated by technology and its potential to solve complex problems. My previous work as a system administrator gave me a good foundation in understanding programming and algorithms, but I wanted to apply my knowledge in a more practical area: developing effective machine learning algorithms, analyzing data and creating intelligent systems that can improve decision-making processes, automate routine tasks and increase work efficiency.
+I am actively interested in the latest advances in artificial intelligence and machine learning, which allows me to quickly master new technologies and apply them in practice.
+I am motivated by the opportunity to work on interesting projects, constantly learn and develop.
 
 * 🌍  I'm based in Russia
 * ✉️  You can contact me at [gromovveniamin7@gmail.com](mailto:gromovveniamin7@gmail.com)
