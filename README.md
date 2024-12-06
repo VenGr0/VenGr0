@@ -14,7 +14,7 @@
 - **Стек:** Python, TensorFlow, NumPy, Matplotlib, Jupyter Notebook 
 - **Особенности:** Интеллектуальная система принимает решения на основе текущих условий и прогнозов энергопотребления.  
 
-### [Проект 2: Data Visualization Dashboard](https://github.com/VenGr0/Comparison-of-DDPG-and-PPO)
+### [Проект 2: Сравнение алгоритмов DDPG и PPO](https://github.com/VenGr0/Comparison-of-DDPG-and-PPO)
 - **Описание:** В этом проекте анализируется и сравнивается производительность двух популярных алгоритмов обучения с подкреплением: Deep Deterministic Policy Gradient (DDPG) и Proximal Policy Optimization (PPO). 
 - **Стек:** Python, TensorFlow, PyTorch, OpenAI Gym, NumPy, Matplotlib, Jupyter Notebook
 - **Особенности:** Сравнение метрик производительности в нескольких эпизодах.  
