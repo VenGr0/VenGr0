@@ -19,12 +19,17 @@
 - **Стек:** Python, TensorFlow, PyTorch, OpenAI Gym, NumPy, Matplotlib, Jupyter Notebook
 - **Особенности:** Сравнение метрик производительности в нескольких эпизодах.
 
-### [Проект 3: RAG-Система: Система генерации с дополнением извлечённой информации](https://github.com/VenGr0/RAG-system)
+### [Проект 3: Сравнение алгоритмов DDPG и PPO](https://github.com/VenGr0/Comparison-of-DDPG-and-PPO)
+- **Описание:** В этом проекте анализируется и сравнивается производительность двух популярных алгоритмов обучения с подкреплением: Deep Deterministic Policy Gradient (DDPG) и Proximal Policy Optimization (PPO). 
+- **Стек:** Python, TensorFlow, PyTorch, OpenAI Gym, NumPy, Matplotlib, Jupyter Notebook
+- **Особенности:** Сравнение метрик производительности в нескольких эпизодах.
+
+### [Проект 4: RAG-Система: Система генерации с дополнением извлечённой информации](https://github.com/VenGr0/RAG-system)
 - **Описание:** Проект представляет собой реализацию системы Retrieval-Augmented Generation (RAG), которая объединяет извлечение информации из базы знаний с генерацией текста.
 - **Стек:** Python, Openai, Llama, Llmlingua, Jupyter Notebook
 - **Особенности:** Генерация точных и контекстуальных ответов с использованием моделей на основе трансформеров.
 
-### [Проект 4: Использование Больших Языковых Моделей (LLM) с Графами Знаний](https://github.com/VenGr0/LLM_with_KnowledgeGraph)
+### [Проект 5: Использование Больших Языковых Моделей (LLM) с Графами Знаний](https://github.com/VenGr0/LLM_with_KnowledgeGraph)
 - **Описание:** Проект исследует интеграцию больших языковых моделей (LLM) с графами знаний для улучшения генерации текстов и ответа на вопросы.
 - **Стек:** Python, Hugging Face Transformers, Llama, Langchain, Jupyter Notebook
 - **Особенности:** Генерация ответов на основе данных из графа знаний. 
