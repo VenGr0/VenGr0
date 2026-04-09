@@ -4,6 +4,29 @@ ML Engineer, который делает прикладные AI/ML-систем
 
 Мне интересно превращать сложные ML-задачи в работающие инструменты с измеримым эффектом для бизнеса: экономия времени, снижение ручной нагрузки, ускорение процессов и повышение качества результата.
 
+## GitHub-статистика
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=VenGr0&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&locale=ru" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VenGr0&layout=compact&hide_border=true&langs_count=8&locale=ru" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://streak-stats.demolab.com?user=VenGr0&hide_border=true&locale=ru" />
+</p>
+
+## Избранные репозитории
+
+<p align="center">
+  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=VenGr0&repo=REPO_NAME_1&hide_border=true" />
+  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=VenGr0&repo=REPO_NAME_2&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=VenGr0&repo=REPO_NAME_3&hide_border=true" />
+  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=VenGr0&repo=REPO_NAME_4&hide_border=true" />
+</p>
+
 ## Чем я занимаюсь
 
 - Проектирую и собираю end-to-end ML/LLM-сервисы — от идеи и прототипа до production
@@ -35,57 +58,21 @@ ML Engineer, который делает прикладные AI/ML-систем
 - Milvus для семантического поиска
 - логика диалога, fallback-стратегии, end-to-end тестирование
 
-### Другие проекты
-
-- Deep Q-Learning для управления энергопотреблением в задаче умного дома
-- Мобильное AI chat-приложение на Flutter с интеграцией нескольких LLM API
-- WordPress-плагин для генерации новостных RSS-фидов
-- Автоматизация и прикладные ML-инструменты для внутренних и клиентских сценариев
-
-## Результаты, на которые я ориентируюсь
-
-- ускорение обработки запросов и аналитики
-- снижение ручной нагрузки на команды
-- повышение доли полезного AI-результата без правок
-- сокращение времени вывода новых решений в production
-- понятный бизнес-эффект от ML-систем
-
 ## Стек
 
 ### Языки и core
 `Python` `SQL` `Dart` `PHP`
 
 ### ML / AI
-`LLM` `NLP` `Prompt Engineering` `RAG` `Summarization` `Clustering`  
+`LLM` `NLP` `Prompt Engineering` `RAG` `Summarization` `Clustering`
 `PyTorch` `TensorFlow` `scikit-learn` `Whisper`
 
 ### Backend / Infra
-`FastAPI` `Docker` `CI/CD`  
+`FastAPI` `Docker` `CI/CD`
 `DuckDB` `SQLite` `PostgreSQL` `Milvus`
 
 ### Интеграции и инструменты
 `Telegram API` `WordPress` `REST API` `Streamlit` `Plotly` `Git`
-
-## Что мне особенно интересно
-
-Сильнее всего меня интересуют задачи, где AI — это не просто демо, а рабочий инструмент, встроенный в процесс и дающий измеримый результат.
-
-В фокусе:
-- LLM-приложения
-- AI-агенты и автоматизация workflow
-- внутренние copilots и knowledge tools
-- voice AI
-- автоматизация аналитики и контента
-- production-ready ML systems
-
-## Репозитории в этом профиле
-
-Здесь я стараюсь собирать проекты, которые отражают мой подход к разработке:
-- ML-системы с понятным product use case
-- LLM / retrieval / AI automation эксперименты
-- production-oriented прототипы
-- прикладные backend + ML интеграции
-- часть более ранних проектов по RL, CV и mobile AI
 
 ## Контакты
 
@@ -94,4 +81,4 @@ ML Engineer, который делает прикладные AI/ML-систем
 
 ---
 
-Открыт к интересным задачам в Applied AI / ML Engineering.
+Открыт к сильным задачам в Applied AI / ML Engineering.
