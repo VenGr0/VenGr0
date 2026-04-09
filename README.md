@@ -7,24 +7,12 @@ ML Engineer, который делает прикладные AI/ML-систем
 ## GitHub-статистика
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=VenGr0&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&locale=ru" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VenGr0&layout=compact&hide_border=true&langs_count=8&locale=ru" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=VenGr0&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&theme=tokyonight&locale=ru" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VenGr0&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&locale=ru" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=VenGr0&hide_border=true&locale=ru" />
-</p>
-
-## Избранные репозитории
-
-<p align="center">
-  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=VenGr0&repo=REPO_NAME_1&hide_border=true" />
-  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=VenGr0&repo=REPO_NAME_2&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=VenGr0&repo=REPO_NAME_3&hide_border=true" />
-  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=VenGr0&repo=REPO_NAME_4&hide_border=true" />
+  <img height="170" src="https://streak-stats.demolab.com?user=VenGr0&hide_border=true&theme=tokyonight&locale=ru" />
 </p>
 
 ## Чем я занимаюсь
